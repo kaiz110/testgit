@@ -1,4 +1,5 @@
 Xoa toan bo
 Text chinh
 Text chinh thu 2
+Text chinh thu 3
 
