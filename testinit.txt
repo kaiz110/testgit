@@ -1,10 +1,5 @@
 Xoa toan bo
 Text chinh
 Text chinh thu 2
-<<<<<<< HEAD
 Text chinh thu 3
 Text 4
-=======
-Text chinh thu 3 da chinh sua
-
->>>>>>> 5d81c7d7ef54959fc68022a67c919bf7ec02da79
